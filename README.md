@@ -1,2 +1,3 @@
-# kajkhuji
-Freelance 
+# kajkhuji 
+KajKhuji freelancing platform
+
